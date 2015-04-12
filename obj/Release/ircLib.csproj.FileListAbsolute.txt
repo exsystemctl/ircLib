@@ -1,0 +1,5 @@
+C:\Documents\GitHub\ircLib\ircLib\ircLib\bin\Release\ircLib.dll
+C:\Documents\GitHub\ircLib\ircLib\ircLib\bin\Release\ircLib.pdb
+C:\Documents\GitHub\ircLib\ircLib\ircLib\obj\Release\ircLib.csprojResolveAssemblyReference.cache
+C:\Documents\GitHub\ircLib\ircLib\ircLib\obj\Release\ircLib.dll
+C:\Documents\GitHub\ircLib\ircLib\ircLib\obj\Release\ircLib.pdb
